@@ -1,5 +1,6 @@
 # pro4.GapOpenExtend
-<your name + student ID>
+曹柏泓
+113753108
 ## Description
 
 * Write a Python script to perform pairwise alignment with two-type gap penalties.
